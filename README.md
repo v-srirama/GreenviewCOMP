@@ -1,7 +1,7 @@
 # GreenviewCOMP
-GreenviewCOMP is a MATLAB based GUI developed to quantify street level greenery for Google Street View restricted countries. Try GreenviewCOMP using the sample image in the repository! 
+GreenviewCOMP is a MATLAB based GUI developed to quantify street level greenery for Google Street View restricted countries. Try GreenviewCOMP using the sample image and .exe in the repository! 
 
-Devs: Sri, Dr. Puppala
+_Devs: Sri, Dr. Puppala_
 
 
 
